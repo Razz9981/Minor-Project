@@ -2,20 +2,6 @@
     margin: 0;
     padding: 0;
 }
-#navbar{
-    background-color: rgb(93, 178, 125);
-}
-
-.navigation-bar{
-  
-    position: relative;
-    display: flex;
-    box-sizing: border-box;
-    height:50px;
-    background-color: rgb(72, 123, 176);
-    width:100%;
-  
-}
 a{
     padding: 5px;
     color: bisque;
@@ -48,8 +34,10 @@ a{
     margin-left:20px;
     margin-right:20px;
     margin-bottom: 5%;
-    margin-top:8%;
+    margin-top:2%;
     text-transform:capitalize;
+    background-color: rgba(0, 255, 255, 0.534);
+    border-radius: 20px;
 }
 #container{
     width: 100%;
